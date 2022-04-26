@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AmelieHenry
+- 👀 I’m interested in creating interactive websites and useful apps.
+- 🌱 I’m currently learning python, ruby, SQL and javascript. 
+- 💞️ I’m looking to collaborate on anything! I love to collaborate.
+- 📫 How to reach me : message me on GitHub.
