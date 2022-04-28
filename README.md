@@ -2,4 +2,4 @@
 - 👀 I’m interested in creating interactive websites and useful apps.
 - 🌱 I’m currently learning python, ruby, SQL and javascript. 
 - 💞️ I’m looking to collaborate on anything! I love to collaborate.
-- 📫 How to reach me : message me on GitHub.
+- 📫 How to reach me : message me on GitHub or Discord me: Amélie#8321
