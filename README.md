@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AmelieHenry
-- 👀 I’m always interested in creating.
+- 👀 I’m always interested in creating, learning and solving problems.
 - 🌱 I’m currently learning Python, SQL, Javascript and HTML. 
 - 📫 How to reach me : message me on GitHub or Discord me: Amélie#8321
